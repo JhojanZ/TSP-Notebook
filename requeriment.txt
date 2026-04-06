@@ -1,0 +1,7 @@
+# Requerimientos para Red Neuronal - TSP con Algoritmo de Hormigas
+# Usar con: python3 -m venv venv && source venv/bin/activate && pip install -r requeriment.txt
+
+numpy>=1.20.0
+matplotlib>=3.5.0
+jupyter>=1.0.0
+ipython>=8.0.0
